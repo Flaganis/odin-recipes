@@ -1,4 +1,19 @@
+* { background-color: rgba(255, 94, 0, 0.534)
+    ;
+
+}
+
+
 pre {
     color: rgb(3, 223, 3);
-    background-color: black;
+    background-color: black; 
 }
+
+
+button {
+
+    font-size: 60px;
+
+
+}
+
